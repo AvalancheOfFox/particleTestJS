@@ -11,7 +11,7 @@ let particlesArray = []
 let mouse = {
     x: null,
     y: null,
-    radius: (canvas.height/400) * (canvas.width/400)
+    radius: (canvas.height/90) * (canvas.width/90)
 }
 
 // sets mouse coordinates on mouse move
